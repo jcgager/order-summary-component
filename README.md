@@ -14,8 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,9 +25,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Design preview for the order summary component coding challenge](https://github.com/jcgager/order-summary-component/blob/master/design/desktop-demo.png?raw=true)
+![Design preview for the order summary component coding challenge](design/desktop-demo.png)
 
-![Design preview for the order summary component coding challenge](https://github.com/jcgager/order-summary-component/blob/master/design/mobile-demo.png?raw=true)
+![Design preview for the order summary component coding challenge](design/mobile-demo.png)
 
 ### Links
 
