@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Design preview for the order summary component coding challenge](design/desktop_demo.png)
+Desktop view ![Design preview for the order summary component coding challenge](design/desktop_demo.png)
 
-![Design preview for the order summary component coding challenge](design/mobile_demo.png)
+Mobile view ![Design preview for the order summary component coding challenge](design/mobile_demo.png)
 
 ### Links
 
